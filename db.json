@@ -1,14 +1,21 @@
 {
   "projects": [
     {
-      "name": "Deliciosidade 2023 UPDATE TOP",
-      "budget": "1500",
+      "name": "Deliciosidade 2023 UPDATE TOPZERA",
+      "budget": "2000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 1234,
+      "services": [
+        {
+          "name": "Minha casa",
+          "cost": "1234",
+          "description": "Qualquer coisa",
+          "id": "7e9af222-db5c-41d2-b440-73aacb44f9be"
+        }
+      ],
       "id": 1
     },
     {
