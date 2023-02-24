@@ -7,15 +7,8 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 1234,
-      "services": [
-        {
-          "name": "Minha casa",
-          "cost": "1234",
-          "description": "Qualquer coisa",
-          "id": "7e9af222-db5c-41d2-b440-73aacb44f9be"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 1
     },
     {
